@@ -9,4 +9,4 @@ To change the folder icon:
 - Press Command-C (paste)
 - Done
 
-<img src="0.png" width="64"> <img src="1.png" width="64"> <img src="2.png" width="64"> <img src="3.png" width="64"> <img src="4.png" width="64"> <img src="5.png" width="64">
+<img src="icons/0.png" width="64"> <img src="icons/1.png" width="64"> <img src="icons/2.png" width="64"> <img src="icons/3.png" width="64"> <img src="icons/4.png" width="64"> <img src="icons/5.png" width="64">
